@@ -4,6 +4,9 @@ This project presents an interactive Excel-based personal finance dashboard desi
 
 ---
 
+### Personal Finance Dashboard
+![Personal Finance Dashboard](personal_exp_dashboard.png)
+
 ## Dataset Description
 
 - Transaction-level financial data:
